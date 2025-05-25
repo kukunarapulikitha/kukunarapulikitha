@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Data+Engineer+%7C+ML+Engineer;Building+Scalable+Data+Pipelines;GenAI+%26+MLOps+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Data+Analyst+%7C+Data+Engineer %7C+Data+Science/ML;Building+Scalable+Data+Pipelines;GenAI+%26+MLOps+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
@@ -86,18 +86,6 @@ I'm a **Master's student in Data Analytics Engineering** at Northeastern Univers
 - Built heart disease detection model with **90% accuracy**
 - Processed **10K+ ECG records** with real-time data analysis
 - Collaborated in **Agile environments** with cross-functional teams
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Likitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=likithakukunarapu&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likithakukunarapu&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=likithakukunarapu&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🎯 Current Focus
 
