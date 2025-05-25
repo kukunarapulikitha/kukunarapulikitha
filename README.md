@@ -66,14 +66,6 @@ I'm a data enthusiast with hands-on experience building scalable data pipelines,
 
 ---
 
-## 📸 Highlights
-
-<img src="/mnt/data/0643b71c-3c43-4c80-b595-610a3b586da1.png" width="200"/>  
-<img src="/mnt/data/befa4dfd-c8f7-41ad-975f-cf076b324d4d.png" width="200"/>  
-<img src="/mnt/data/ae5356d9-b056-4b1e-90a1-c894a3d93c7b.png" width="200"/>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: likithakukunarapu@gmail.com  
